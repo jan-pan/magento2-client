@@ -1,6 +1,6 @@
 {
-  "name": "eoko/magento2-client",
-  "description": "Eoko Magento 2 client for the API",
+  "name": "jan-pan/magento2-client",
+  "description": "jan-pan Magento 2 client for the API",
   "license": "OSL-3.0",
   "minimum-stability": "stable",
   "authors": [
