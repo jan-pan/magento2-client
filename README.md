@@ -14,7 +14,7 @@ A simple PHP client to use the [Magento2](https://github.com/magento/magento2).
 We use HTTPPlug as the HTTP client abstraction layer.
 In this example, we will use [Guzzle](https://github.com/guzzle/guzzle) v6 as the HTTP client implementation.
 
-`eoko/magento2-client` uses [Composer](http://getcomposer.org).
+`jan-pan/magento2-client` uses [Composer](http://getcomposer.org).
 The first step to use `jan-pan/magento2-client` is to download composer:
 
 ```bash
